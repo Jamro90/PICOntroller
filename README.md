@@ -18,15 +18,32 @@ This program is in production faze. I do not recommended to download it until it
 
 # 5. Installation
 
-In general create a folder for source code & navigate:
-
-```bash
-mkdir build
-cd build
-``` 
-
-The next step is to clone repository:
+In general clone repository:
 
 ```bash
 git clone https://github.com/Jamro90/PICOntroller.git
+```
+
+Next navigate:
+
+```bash
+cd PICOntrller
+```
+
+and build project:
+
+```bash
+make install
+```
+
+You can also skip building and run it from source:
+
+```bash
+make
+```
+
+or 
+
+```bash
+python3 main.py
 ```
