@@ -1,10 +1,10 @@
 # PICOntroller Manual
 
-1. [Introduction](#1.-introduction)
-2. [Specifications](#2.-specifications)
-3. [General purpose](#3.-general-purpose)
-4. [Mandatory hardware](#4.-mandatory-hardware)
-5. [Installation](#5.-installation)
+1. [Introduction](#1-introduction)
+2. [Specifications](#2-specifications)
+3. [General purpose](#3-general-purpose)
+4. [Mandatory hardware](#4-mandatory-hardware)
+5. [Installation](#5-installation)
 
 # 1. Introduction
 
