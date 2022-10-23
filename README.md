@@ -18,3 +18,15 @@ This program is in production faze. I do not recommended to download it until it
 
 # 5. Installation
 
+In general create a folder for source code & navigate:
+
+```bash
+mkdir build
+cd build
+``` 
+
+The next step is to clone repository:
+
+```bash
+git clone https://github.com/Jamro90/PICOntroller.git
+```
