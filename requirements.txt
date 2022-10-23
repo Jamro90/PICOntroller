@@ -1,0 +1,18 @@
+# useful libs
+tensorflow
+pyside6
+docx
+flask
+flask-login
+flask-sqlalchemy
+django
+pandas
+matplotlib
+pyinstaller
+tk
+requests
+Werkzeug
+Jinja2
+multiprocess
+inputs
+opencv-python
