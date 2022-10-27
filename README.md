@@ -27,7 +27,7 @@ git clone https://github.com/Jamro90/PICOntroller.git
 Next navigate:
 
 ```bash
-cd PICOntrller
+cd PICOntroller
 ```
 
 and build project:
